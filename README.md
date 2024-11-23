@@ -32,11 +32,11 @@ The "Ind-2" dataset contains 172 positive sequences and 253 negetive peptide sam
 
 the Python file "DE.py" is the code that learns the best weights for feature sets. It is used to weightedly integrate all the feature sets.
 
-(IV) 4. SMOTE Tomek-LINKS
+(IV)  SMOTE Tomek-LINKS
 
   SMOTE T0mek_lINKS.py
 
-(V) 5. Two_layer Feature selection
+(V)  Two_layer Feature selection
 
   this folder includes the following file.
 
@@ -44,8 +44,8 @@ the Python file "DE.py" is the code that learns the best weights for feature set
 
   (2) Layer_2 Main_BTG.m
 
-(VI) 5_ClassificationCode
+(VI) ClassificationCode
 
-  5_ClassificationCode folder includes all the libraries for the SnBiTCN classifier netowrk.
+  ClassificationCode folder includes all the libraries for the SnBiTCN classifier netowrk.
 
 NOTE: For Feature integration and Classification, please directly run them from their corresponding folders.
